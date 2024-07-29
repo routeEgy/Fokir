@@ -153,7 +153,7 @@ body {
 .slider-bg-1{
   background: url("img/slider/slider-01.jpg") repeat scroll center center / cover ;
 }.slider-bg-2{
-  background: url("img/slider/slider-02.jpg") repeat scroll center center / cover ;
+  background: url("img/header.jpeg") repeat scroll center center / cover ;
 }
 .height-100-vh {
   height: 100vh;
